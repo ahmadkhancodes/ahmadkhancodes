@@ -1,5 +1,5 @@
 ## Hi there, I'm Ahmad Khan 👋
-### A Full Stack Web & Mobile App Developer, pursuing last Year of Computer Science student in COMSATS University Islamabad
+### A Full Stack Web & Mobile App Developer recently graduated from COMSATS University Islamabad
 
 - 🔭 I’m currently working as Full Stack in React Native, MERN, GoLang and DevOps
 - 💪 I can build Cross Platform Android & iOS Mobile Applications, Progressive Web Applications and do Wordpress Development 
