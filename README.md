@@ -12,7 +12,8 @@
 <p align="center"> <a href="https://twitter.com/yesitsmak" target="blank"><img src="https://img.shields.io/twitter/follow/yesitsmak?logo=twitter&style=for-the-badge" alt="yesitsmak" /></a> </p>
 
 - 🔭 I’m currently working as **Full Stack in React Native, MERN, Python, GoLang and DevOps**
-- 💪 I can build Cross Platform **Android & iOS Mobile Applications, Progressive Web Applications and do Wordpress Development**
+- 💪 I can build Cross Platform **Android & iOS Mobile Applications, Progressive Web Applications, UI Design, Wordpress, and Shopify Development**
+- 💪 Also working in the feild of Data Science and Artificial Intelligence, especially in Machine Learning, NLP and Deep Learning as a part of my Masters Degree at FAST
 - 🌱 Passionate about **Blockchain and Web3.0**
 - 👯 I've done various projects in **Java, JavaScript, C++, Python, PHP, Node, GoLang, React Native and React js using SQL, MongoDB and Firebase**
 
