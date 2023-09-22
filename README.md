@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahmad Khan</h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?size=69&color=FFFFFF&background=2e3440&center=true&vCenter=true&center=true&vCenter=true&width=1100&height=100&lines=Hello+%F0%9F%91%8B%2C+I'm+Ahmad+Khan!">
 <h3 align="center"><b>A Full Stack Web💻 & Mobile App📱 Developer</b></h3>
 <h4 align="center">I am currently doing my Masters in Computer Science from FAST NUCES Islamabad and had done my Bachelors in Computer Science from COMSATS University Islamabad.</h4>
 
 ##
+<p align="center">
+  <img heigth="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadkhancodes&theme=nord_dark" alt="Profile Details Card">
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmadkhancodes&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadkhancodes" /> </p>
 
@@ -12,6 +15,25 @@
 - 💪 I can build Cross Platform **Android & iOS Mobile Applications, Progressive Web Applications and do Wordpress Development**
 - 🌱 Passionate about **Blockchain and Web3.0**
 - 👯 I've done various projects in **Java, JavaScript, C++, Python, PHP, Node, GoLang, React Native and React js using SQL, MongoDB and Firebase**
+
+##
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <div align=center>
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=ahmadkhancodes&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats Card">
+    <img width="425" src="https://github-readme-streak-stats.herokuapp.com?user=ahmadkhancodes&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadkhancodes&theme=nord_dark&utcOffset=8" alt="Commit Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadkhancodes&theme=nord_dark" alt="Top Languages by Commit Card">
+    <img width="275" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadkhancodes&theme=nord_dark" alt="Top Languages by Repo Card">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmadkhancodes&theme=nord&column=7" alt="Stat Trophies">
+  </div>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadkhancodes&hide_border=true&theme=nord" alt="Activity Graph">
+</p>
+
+<hr>
 
 ##
 
